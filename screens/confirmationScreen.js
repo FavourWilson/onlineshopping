@@ -30,8 +30,8 @@ export default function ConfirmationScreen() {
   const cart = useSelector((state) => state.cart.cart)
   const projectId = '0d6bb01fb2c7dbb284c1a2d376a481b8'
   const metadata = {
-  name: 'Web3Modal RN',
-  description: 'Web3Modal RN Example',
+  name: 'onlineshopping',
+  description: 'Connect your wallet to make payment',
   url: 'https://web3modal.com',
   icons: ['https://avatars.githubusercontent.com/u/37784886'],
   redirect: {
